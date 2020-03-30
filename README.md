@@ -1,6 +1,6 @@
 # DSA-Assignment
 ## Questions
-* Write a ### C program to reverse a string using **stack**.
-* Write a program for Infix To Postfix Conversion Using Stack.
-* Write a C Program to Implement Queue Using Two Stacks.
-* Write a c program for insertion and deletion of BST.
+* Write a _C program_ to reverse a string using **Stack**.
+* Write a _C program_ for Infix To Postfix Conversion Using **Stack**.
+* Write a _C program_ to Implement Queue Using Two **Stacks**.
+* Write a _C program_ for _ _insertion_ _ and _ _deletion_ _ of **BST**.
