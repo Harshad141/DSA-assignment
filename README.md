@@ -1,3 +1,4 @@
+'''diff
 # DSA-Assignment 5
 ## - Questions
 * Write a _C program_ to reverse a string using **Stack**.
